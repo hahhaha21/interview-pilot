@@ -1,0 +1,24 @@
+환경 변수 (API 키 보안)
+
+.env
+
+파이썬 캐시 파일
+
+pycache/
+*.py[cod]
+*$py.class
+
+가상 환경
+
+venv/
+env/
+.venv/
+
+Streamlit 설정 파일
+
+.streamlit/
+
+OS 관련 파일
+
+.DS_Store
+Thumbs.db
