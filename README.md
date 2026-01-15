@@ -15,11 +15,8 @@ Security Management: Safely manages sensitive information (API Keys) using .env 
 🛠 Tech Stack
 
 Language: Python 3.9+
-
 AI/LLM: Google Gemini API (gemini-1.5-flash)
-
 Framework: Streamlit
-
 Audio: SpeechRecognition, PyAudio
 
 ⚙️ How to Install & Run
@@ -31,15 +28,11 @@ cd interview-pilot
 
 
 Install Dependencies:
-
 pip install -r requirements.txt
 
-
 Set Environment Variables:
-
 Create a .env file and enter your GEMINI_API_KEY.
 
 Run the App:
-
 streamlit run app.py
 
